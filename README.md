@@ -9,7 +9,7 @@ This project is associated with DIT365 (Distributed systems) course at universit
 - [Functional decomposition diagram](https://git.chalmers.se/courses/dit355/dit356-2022/t-8/documentation/-/wikis/functional-decomposition-diagram)
 - [Sequence diagram](https://git.chalmers.se/courses/dit355/dit356-2022/t-8/documentation/-/wikis/Sequence-Diagram)
 - [Time planning](https://git.chalmers.se/courses/dit355/dit356-2022/t-8/documentation/-/wikis/Time-Planning)
-- [Class diagram](url)
+- [Component diagram](https://git.chalmers.se/courses/dit355/dit356-2022/t-8/documentation/-/wikis/Component-diagram)
 ## Contributors:
 - [Yasamin Fazelidehkordi](https://git.chalmers.se/yasaminf)
 - [Amin Mahmoudifard](https://git.chalmers.se/aminmah)
