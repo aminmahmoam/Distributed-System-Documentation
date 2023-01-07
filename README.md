@@ -92,6 +92,6 @@ We used scrum practice as an agile method for this project. As a scrum team we h
 - [Patrik Samcenko](https://git.chalmers.se/samcenko) (Developer)
 - [Vladyslav Shatskyi](https://git.chalmers.se/shatskyi) (Developer)
 
-The tasks or user stroies assigned to each person could be found in trello and also could be traced in commits related to different issues in other repositories.
+The tasks or user stories assigned to each person could be found on Trello and also could be traced in commits related to different issues in other repositories.
 ## Other Links:
 [Trello](https://trello.com/b/NFWMRtVd/dentistimo)
