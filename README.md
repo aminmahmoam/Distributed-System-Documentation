@@ -56,6 +56,8 @@ User stories connected to each issue can be found on the individual milestone pa
 - [Milestone 4: Testing](https://git.chalmers.se/courses/dit355/dit356-2022/t-8/documentation/-/milestones/4#tab-issues)
 - [Milestone 5: Security](https://git.chalmers.se/courses/dit355/dit356-2022/t-8/documentation/-/milestones/5#tab-issues)
 
+All issues could be found [here](https://git.chalmers.se/courses/dit355/dit356-2022/t-8/documentation/-/issues/?sort=created_date&state=closed&first_page_size=20)
+
 ## Diagrams & charts:
 - [Functional decomposition diagram](https://git.chalmers.se/courses/dit355/dit356-2022/t-8/documentation/-/wikis/functional-decomposition-diagram)
 - [Sequence diagram](https://git.chalmers.se/courses/dit355/dit356-2022/t-8/documentation/-/wikis/Sequence-Diagram)
