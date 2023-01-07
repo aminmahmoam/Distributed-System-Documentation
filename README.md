@@ -84,13 +84,14 @@ We used scrum practice as an agile method for this project. As a scrum team we h
 
 
 ## Contributors:
-- [Yasamin Fazelidehkordi](https://git.chalmers.se/yasaminf)
-- [Amin Mahmoudifard](https://git.chalmers.se/aminmah)
-- [Emrik Dunvald](https://git.chalmers.se/dunvald)
-- [Daniel J Coetzer](https://git.chalmers.se/coetzer)
-- [Julia Ayvazian](https://git.chalmers.se/ayvazian)
-- [Patrik Samcenko](https://git.chalmers.se/samcenko)
-- [Vladyslav Shatskyi](url)
+- [Yasamin Fazelidehkordi](https://git.chalmers.se/yasaminf) (Developer)
+- [Amin Mahmoudifard](https://git.chalmers.se/aminmah) (Product owner, Developer)
+- [Emrik Dunvald](https://git.chalmers.se/dunvald) (Scrum master, Developer)
+- [Daniel J Coetzer](https://git.chalmers.se/coetzer) (Developer)
+- [Julia Ayvazian](https://git.chalmers.se/ayvazian) (Developer)
+- [Patrik Samcenko](https://git.chalmers.se/samcenko) (Developer)
+- [Vladyslav Shatskyi](https://git.chalmers.se/shatskyi) (Developer)
 
+The tasks or user stroies assigned to each person could be found in trello and also could be traced in commits related to different issues in other repositories.
 ## Other Links:
 [Trello](https://trello.com/b/NFWMRtVd/dentistimo)
